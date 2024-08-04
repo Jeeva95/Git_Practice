@@ -1,4 +1,9 @@
 # Addition function created
 def add(a,b):
   return a+b
-add(10,5)
+
+def mul(a,b):
+  return a*b
+
+print(add(10,5))
+print(mul(10,5))
